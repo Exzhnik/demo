@@ -1,14 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"data":[
+{
+"address_from": [
+{"from_dist": "", "from_region": "Свердловская область", "to_dist": "", "to_region": "Самарская область"},
+{"from_dist": "", "from_region": "Свердловская область","to_dist": "", "to_region": "Самарская область"}
+],       
+"client": "",
+"date": null,
+"date_filter": "2020-01-14 12:56:52",
+"id": 56,
+"isread": null,
+"max": null,
+"min": null,
+"name": "Сверд - Самара",
+"type_ts": "",
+"user_id": 7,
+}
+]
 }
